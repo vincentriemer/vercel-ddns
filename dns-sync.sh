@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./dns.config
+# source ./dns.config
 
 # 1. Get current IP
 IP=$(curl -s http://whatismyip.akamai.com/)

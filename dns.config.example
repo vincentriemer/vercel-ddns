@@ -3,3 +3,4 @@ VERCEL_TOKEN=""
 
 # Your domain/subdomain
 DOMAIN_NAME=""
+SUBDOMAIN=""
